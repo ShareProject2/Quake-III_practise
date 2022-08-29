@@ -1,0 +1,318 @@
+﻿  cl_cgame.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_cgame.c(314): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_cgame.c(323): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_cgame.c(324): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_cgame.c(626): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(340): note: 参见“strncpy”的声明
+  cl_cin.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_cin.c(1507): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  cl_console.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_console.c(218): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+  cl_input.c
+  cl_keys.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_keys.c(913): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_keys.c(915): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+  cl_main.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(972): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(973): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(976): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(977): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(980): warning C4996: 'putenv': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putenv. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1349): note: 参见“putenv”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(982): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: 参见“getenv”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(1118): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(1120): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(1121): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(1124): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(1534): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(2084): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1396): note: 参见“_vsnprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(2609): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(255): note: 参见“strncat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(2784): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(2888): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(2894): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(2898): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_main.c(3311): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  cl_net_chan.c
+  cl_parse.c
+  cl_scrn.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_scrn.c(340): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  cl_ui.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\cl_ui.c(1046): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(340): note: 参见“strncpy”的声明
+  snd_adpcm.c
+  snd_dma.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\snd_dma.c(323): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\snd_dma.c(1346): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\snd_dma.c(1347): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\snd_dma.c(1348): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\snd_dma.c(1349): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\snd_dma.c(1350): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\client\snd_dma.c(1351): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  snd_mem.c
+  snd_mix.c
+  snd_wavelet.c
+  q_math.c
+  q_shared.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\game\q_shared.c(268): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 参见“vsprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\game\q_shared.c(280): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 参见“vsprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\game\q_shared.c(723): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(340): note: 参见“strncpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\game\q_shared.c(876): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 参见“vsprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\game\q_shared.c(912): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 参见“vsprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\game\q_shared.c(1072): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\game\q_shared.c(1127): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\game\q_shared.c(1202): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\game\q_shared.c(1203): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\game\q_shared.c(1250): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+  cmd.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\cmd.c(371): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\cmd.c(373): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\cmd.c(395): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\cmd.c(397): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+  cm_load.c
+  cm_patch.c
+  正在生成代码...
+  正在编译...
+  cm_polylib.c
+  cm_test.c
+  cm_trace.c
+  common.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\common.c(149): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1396): note: 参见“_vsnprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\common.c(183): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\common.c(186): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(116): note: 参见“asctime”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\common.c(218): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1396): note: 参见“_vsnprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\common.c(274): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 参见“vsprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\common.c(691): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\common.c(1154): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\common.c(2258): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\common.c(2288): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\common.c(2302): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\common.c(2320): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  cvar.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\cvar.c(541): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\cvar.c(543): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+  files.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(533): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(552): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(589): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(612): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(650): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(693): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(709): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(729): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(873): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(916): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(1030): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(1184): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(1358): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1396): note: 参见“_vsnprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(1757): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(1804): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(2023): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(2191): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(2192): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(2204): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(2209): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(2211): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\files.c(2513): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  huffman.c
+  md4.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\md4.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  msg.c
+  net_chan.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\net_chan.c(659): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 参见“vsprintf”的声明
+  unzip.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\unzip.c(1293): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\unzip.c(1330): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  vm.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\qcommon\vm.c(820): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  vm_interpreted.c
+  vm_x86.c
+  sv_bot.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_bot.c(142): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 参见“vsprintf”的声明
+  sv_ccmds.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_ccmds.c(610): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_ccmds.c(618): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+  sv_client.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_client.c(124): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_client.c(127): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_client.c(198): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_client.c(210): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  sv_game.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_game.c(831): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(340): note: 参见“strncpy”的声明
+  sv_init.c
+  sv_main.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_main.c(104): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_main.c(105): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_main.c(172): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1396): note: 参见“_vsnprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_main.c(322): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\server\sv_main.c(350): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  正在生成代码...
+  正在编译...
+  sv_net_chan.c
+  sv_snapshot.c
+  sv_world.c
+  win_input.c
+  win_main.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(56): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(514): note: 参见“open”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(64): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(457): note: 参见“close”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(77): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 参见“vsprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(78): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(556): note: 参见“write”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(119): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 参见“vsprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(430): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(431): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(432): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(437): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(438): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(439): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(483): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_main.c(1059): warning C4996: 'GetVersionExA': 被声明为已否决
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(433): note: 参见“GetVersionExA”的声明
+  win_net.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_net.c(182): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_net.c(183): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_net.c(184): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_net.c(185): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_net.c(186): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_net.c(187): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_net.c(188): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_net.c(189): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_net.c(190): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_net.c(191): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_net.c(491): warning C4133: “函数”: 从“qboolean *”到“u_long *”的类型不兼容
+  win_shared.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_shared.c(288): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_shared.c(292): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  win_snd.c
+  win_syscon.c
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_syscon.c(279): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(255): note: 参见“strncat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_syscon.c(280): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note: 参见“strcat”的声明
+e:\shaodd\thirdbinary\quakeiii_sourcecode\quake3-1.32b\code\win32\win_syscon.c(487): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  win_wndproc.c
+  正在生成代码...
+cl_cgame.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  quake3.vcxproj -> E:\shaodd\thirdbinary\quakeIII_sourceCode\quake3-1.32b\code\.\Debug_TA\quake3.exe
+  Post build processing..

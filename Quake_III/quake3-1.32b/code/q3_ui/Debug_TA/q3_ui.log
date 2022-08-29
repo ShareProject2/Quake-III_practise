@@ -1,0 +1,6 @@
+﻿  ui_syscalls.c
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(E:\shaodd\thirdbinary\quakeIII_sourceCode\quake3-1.32b\code\q3_ui\.\Debug_TA\q3_ui.dll) 与 Linker 的 OutputFile 属性值(E:\shaodd\thirdbinary\quakeIII_sourceCode\quake3-1.32b\code\Debug_TA\uix86_old.dll)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(q3_ui) 与 Linker 的 OutputFile 属性值(uix86_old)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+ui_syscalls.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+ui.def : error LNK2001: 无法解析的外部符号 vmMain
+Debug_TA/uix86.lib : fatal error LNK1120: 1 个无法解析的外部命令
